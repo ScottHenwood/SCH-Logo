@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AbstractCommand">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABEAAAAAAAABAAgAAAABAAAAAACACAAgECAAAAAA=</HashCode>
+      <FileName>AbstractCommand.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CommandIterator">
+    <Position X="9.25" Y="2.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>EgAAAAAAAACAAAQAQAAAQAAAAAAAIAAAAEAgAAAAAAA=</HashCode>
+      <FileName>CommandIterator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ControlCommand">
+    <Position X="3.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAIgAAAEAAAAAgAIAgAAgQAAAAAAA=</HashCode>
+      <FileName>ControlCommand.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Piece" Collapsed="true">
+    <Position X="9.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAQAAJACAAAACAAACAAAABAACgAAAIAIAAAA=</HashCode>
+      <FileName>xPiece.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleCommand">
+    <Position X="5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAgAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>SimpleCommand.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SplitCommand">
+    <Position X="7" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAgAAAAAAAAgAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>SplitCommand.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WhileCommand">
+    <Position X="4.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABIABAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>WhileCommand.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IfCommand">
+    <Position X="2.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAEAgAACAAAAAAAAQAAAA=</HashCode>
+      <FileName>IfCommand.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
